@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "chrisvk.json"
+  ],
+  "homeserver_url": "https://synapse.v1nda.ru"
+}
